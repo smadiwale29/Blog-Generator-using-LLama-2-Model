@@ -4,13 +4,14 @@
 This application generates blog content using the LLama 2 language model. It allows users to specify a topic, style, and word count to generate a blog post tailored to their needs.
 
 ## Features
-Input Fields:
+
+### Input Fields:
 
 Blog Topic: Enter the topic for the blog post.
 Number of Words: Specify the desired length of the blog post.
 Writing Style: Choose from predefined styles such as Researchers, Data Scientist, or Common People.
 
-## Output:
+### Output:
 
 Generates a blog post based on the input parameters using the LLama 2 model.
 Displays the generated blog post directly on the interface.
