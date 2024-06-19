@@ -26,7 +26,7 @@ To run this application locally:
 ## Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/smadiwale29/Blog-Generator-using-LLama-2-Model/tree/main)
 Install dependencies:
 bash
 Copy code
